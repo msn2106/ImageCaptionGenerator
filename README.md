@@ -33,7 +33,6 @@ The project uses Convolution Neural Network(CNN) and Long Short Term Memory(LSTM
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result12.PNG" width="300" heigth="275" alt="Race car driving on wet road with lights ON">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result14.PNG" width="300" heigth="275" alt="Boy running barefoot in a parking lot">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result15.PNG" width="300" heigth="275" alt="Women waering straw hat">
-<img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result16.PNG" width="300" heigth="275" alt="man wearing backpack standing in a field">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result18.PNG" width="300" heigth="275" alt="women kissing man in a subway">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result2.PNG" width="300" heigth="275" alt="two dogs running across grassy area">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result22.PNG" width="300" heigth="275" alt="three young boys making faces">
