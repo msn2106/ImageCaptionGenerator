@@ -2,9 +2,12 @@
 ## Image Caption Generation
 The project uses Convolution Neural Network(CNN) and Long Short Term Memory(LSTM) technique of Recurrent Neural Network(RNN) for predicting the captions for the image provided by the user through the Web App designed using Flask
 
+## Structure:
+<img src="https://github.com/m-s-n/DESCIT/blob/main/modelStructure.png" width="1000" heigth="100" alt="Structure of Prediction Model">
+
 ### Dataset Used:- 
-**Flickr8k Image Dataset (https://drive.google.com/drive/u/3/folders/1VNtUKzFWg0TFB5W3FkBOHlzX4qmmR2HA)
-**Flickr8k Text Dataset (https://drive.google.com/drive/u/3/folders/1RGq8vhCVxH5TKeA7IaACjy0IXDZz8jTf)
+**Flickr8k Image Dataset (https://drive.google.com/drive/u/3/folders/1VNtUKzFWg0TFB5W3FkBOHlzX4qmmR2HA)**
+**Flickr8k Text Dataset (https://drive.google.com/drive/u/3/folders/1RGq8vhCVxH5TKeA7IaACjy0IXDZz8jTf)**
 
 ### Construction Process:
 1) We prepared a feature map of 1500 images (out of 8k){because of hardware limitation} using the ResNet50 model of Tensorflow and saved it in a feature.pickle file.
@@ -18,9 +21,6 @@ The project uses Convolution Neural Network(CNN) and Long Short Term Memory(LSTM
 4) A web app will start at localhost
 5) Go to upload page and provide the image whose caption you want. Done, the model will provide you with the predicted caption.
 
-## Structure:
-<img src="https://github.com/m-s-n/DESCIT/blob/main/modelStructure.png" width="1000" heigth="100" alt="Structure of Prediction Model">
-
 #### Versions:
 1.Numpy 1.18.5
 2.Pandas - 1.1.4
@@ -29,6 +29,7 @@ The project uses Convolution Neural Network(CNN) and Long Short Term Memory(LSTM
 5.Python - 3.7.6
 
 ## Screenshots:
+<div float="left">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result12.PNG" width="300" heigth="275" alt="Race car driving on wet road with lights ON">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result14.PNG" width="300" heigth="275" alt="Boy running barefoot in a parking lot">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result15.PNG" width="300" heigth="275" alt="Women waering straw hat">
@@ -38,6 +39,7 @@ The project uses Convolution Neural Network(CNN) and Long Short Term Memory(LSTM
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result22.PNG" width="300" heigth="275" alt="three young boys making faces">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result23.PNG" width="300" heigth="275" alt="a boy in red jacket does a handstand">
 <img src="https://github.com/m-s-n/DESCIT/blob/main/Results/Result27.PNG" width="300" heigth="275" alt="a young girl painting a picture">
+</div>
 
 #### For more:
 About any issue or construction of model or anything. Mail Mayank Singh(msn2106@gmail.com)
